@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c3fc06c-801f-4608-a419-aadb277ccb55" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ii4LIg6KG4wN8EHUaQCMF8J36K" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Test02 (1)">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shsxt.demo05.Test" />
+      <module name="20201011day06" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shsxt.demo05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test01 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shsxt.demo03.Test01" />
+      <module name="20201011day06" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shsxt.demo03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test01 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shsxt.demo04.Test01" />
+      <module name="20201011day06" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shsxt.demo04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test02 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shsxt.demo03.Test02" />
+      <module name="20201011day06" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shsxt.demo03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shsxt.demo04.Test02" />
+      <module name="20201011day06" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shsxt.demo04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test02 (1)" />
+        <item itemvalue="Application.Test02" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Test01 (3)" />
+        <item itemvalue="Application.Test01 (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c3fc06c-801f-4608-a419-aadb277ccb55" name="Default Changelist" comment="" />
+      <created>1602377020923</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602377020923</updated>
+      <workItem from="1602377025786" duration="8396000" />
+      <workItem from="1602399498102" duration="4444000" />
+      <workItem from="1602414001185" duration="5097000" />
+      <workItem from="1602594814058" duration="1285000" />
+      <workItem from="1602635566407" duration="169000" />
+      <workItem from="1602642628272" duration="631000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
